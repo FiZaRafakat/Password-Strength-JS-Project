@@ -91,6 +91,22 @@
     .progress{
         width : 70vw 
     }
+    .container h1 span{
+        font-size: 7vh;
+    }
+  .passwordBox input {
+       margin-top: 3%;
+        font-size: 4vh;
+        height : 10vh
+     }
+     .content p {
+        margin-top: 5%;
+        font-size: 4.5vh;
+      }
+
+     .reqList li{
+        font-size: 3vh;
+     }
 }
 
 @media(max-width : 400px){
